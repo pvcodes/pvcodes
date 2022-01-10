@@ -3,6 +3,9 @@
   <samp>
     「 Bachelor of Computer Application Candidate @ <b>Integral University</b> 」<br>
   </samp>
+
+<h4 align=center>Currently preparing for Master's Entrance Exam</h4>
+
 </p>
   <p align="center">
     <a href="https://twitter.com/pvcodes" target="_blank">
