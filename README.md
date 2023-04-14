@@ -1,13 +1,21 @@
 <h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://pvcodes.in">Pranjal Verma</a></b></samp></h3>
 <p align="center"><br>
+
+
   <samp>
-    「 Bachelor of Computer Application Candidate @ <b>Integral University</b> 」<br>
+    「 Master of Computer Application Candidate @ <b>DAVV, Indore</b> 」<br>
   </samp>
 
-<h4 align=center>Currently preparing for Master's Entrance Exam</h4>
+  <!-- <samp>
+    「 Bachelor of Computer Application Candidate @ <b>Integral University</b> 」<br>
+  </samp> -->
+
 
 </p>
   <p align="center">
+    <a href="https://linktr.ee/pvcodes" target="_blank">
+    <img alt="Linktree: pvcodes" src="https://img.shields.io/badge/linktree-1de9b6?style=flat&logo=linktree" />    
+  </a> &nbsp;
     <a href="https://twitter.com/pvcodes" target="_blank">
     <img alt="Twitter: pvcodes" src="https://img.shields.io/badge/twitter-blue?style=flat&logo=twitter" />    
   </a> &nbsp;
